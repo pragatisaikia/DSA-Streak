@@ -1,6 +1,6 @@
 package binary_search;
 //Leetcode question no. 744 Easy : Find Smallest Letter Greater Than Target
-public class smallestL_letter {
+public class smallest_letter {
     public static void main(String[] args) {
         char[] arr = {'c','f','j'};
         char target = 'c';
