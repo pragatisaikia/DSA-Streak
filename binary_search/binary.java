@@ -1,5 +1,5 @@
 package binary_search;
-
+// Binary search code
 public class binary {
     public static void main(String[] args) {
         int[] arr = {2,4,6,8,10,20,54,99};
