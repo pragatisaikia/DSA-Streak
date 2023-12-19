@@ -1,3 +1,4 @@
+package binary_search;
 
 //852 & 162 : Peak Index in a Mountain Array : Medium
 public class peak_mountain {
