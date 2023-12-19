@@ -1,7 +1,7 @@
+package binary_search;
 
 //1095. Find in Mountain Array : hard
 public class findInMoutain {
-    private static boolean Asc;
 
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,3,1};
@@ -66,3 +66,5 @@ public class findInMoutain {
         return -1;
     }
 }
+
+
