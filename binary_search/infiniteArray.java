@@ -3,7 +3,7 @@ package binary_search;
 public class infiniteArray {
     public static void main(String[] args) {
         int[] arr = { 3, 5, 7, 9, 10, 90, 100, 130, 140, 160, 170 };
-        int target = 10;
+        int target = 90;
         System.out.println(ans(arr, target));
     }
 
@@ -12,7 +12,7 @@ public class infiniteArray {
         int end = 1;
         while (target > arr[end]) {
             int temp = end + 1;
-            end = (end - start + 1) * 2;
+            end = end + (end - start + 1) * 2;
             start = temp;
         }
         return binarySearch(arr, target, start, end);

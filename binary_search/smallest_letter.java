@@ -1,4 +1,5 @@
 package binary_search;
+
 //Leetcode question no. 744 Easy : Find Smallest Letter Greater Than Target
 public class smallest_letter {
     public static void main(String[] args) {
@@ -17,6 +18,7 @@ public class smallest_letter {
             }else{
                 start = mid + 1;
             }
+           
         }
         return letters[start % letters.length];
 
