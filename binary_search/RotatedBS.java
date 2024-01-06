@@ -1,4 +1,4 @@
-package binary_search;
+
 //33. Search in Rotated Sorted Array : Medium
 public class RotatedBS {
     public static void main(String[] args) {

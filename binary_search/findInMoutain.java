@@ -1,4 +1,4 @@
-package binary_search;
+
 
 //1095. Find in Mountain Array : hard
 public class findInMoutain {

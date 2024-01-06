@@ -1,4 +1,4 @@
-package binary_search;
+
 
 //find the rotation count in rotated array
 public class rotationCount {

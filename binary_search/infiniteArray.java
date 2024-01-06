@@ -1,4 +1,4 @@
-package binary_search;
+
 // https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/
 public class infiniteArray {
     public static void main(String[] args) {

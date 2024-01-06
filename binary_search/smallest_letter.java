@@ -1,4 +1,4 @@
-package binary_search;
+
 
 //Leetcode question no. 744 Easy : Find Smallest Letter Greater Than Target
 public class smallest_letter {

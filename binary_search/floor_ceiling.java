@@ -1,6 +1,3 @@
-package binary_search;
-
-
 
 //Given a sorted array. Find the smallest number greater than the target and the greatest number smaller than the target
 
